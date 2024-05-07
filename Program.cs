@@ -1,19 +1,13 @@
-﻿
-using System.Net;
+﻿Console.WriteLine("Enter birthday below:");
+string dateInput = Console.ReadLine();
+var parsedDate = DateTime.Parse(dateInput);
+Console.WriteLine(parsedDate);
 
-while (true)
+
+
+/*
+if (parsedDate != int)
 {
-    if (DateTime TryParse(response, out ValueType birthday))
-    {
-        var response = Console.ReadLine();
-        string dateInput = response;
-        var parsedDate = DateTime.Parse(dateInput);
-        Console.WriteLine(parsedDate);
-        break;
-    }
-    else
-    {
-        continue;
-    }
-
+    Console.WriteLine("Invalid date, please try again");
 }
+*/

@@ -1,0 +1,15 @@
+c:\Users\mason\Desktop\Final\bin\Debug\net8.0\Final.exe
+c:\Users\mason\Desktop\Final\bin\Debug\net8.0\Final.deps.json
+c:\Users\mason\Desktop\Final\bin\Debug\net8.0\Final.runtimeconfig.json
+c:\Users\mason\Desktop\Final\bin\Debug\net8.0\Final.dll
+c:\Users\mason\Desktop\Final\bin\Debug\net8.0\Final.pdb
+c:\Users\mason\Desktop\Final\obj\Debug\net8.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mason\Desktop\Final\obj\Debug\net8.0\Final.AssemblyInfoInputs.cache
+c:\Users\mason\Desktop\Final\obj\Debug\net8.0\Final.AssemblyInfo.cs
+c:\Users\mason\Desktop\Final\obj\Debug\net8.0\Final.csproj.CoreCompileInputs.cache
+c:\Users\mason\Desktop\Final\obj\Debug\net8.0\Final.sourcelink.json
+c:\Users\mason\Desktop\Final\obj\Debug\net8.0\Final.dll
+c:\Users\mason\Desktop\Final\obj\Debug\net8.0\refint\Final.dll
+c:\Users\mason\Desktop\Final\obj\Debug\net8.0\Final.pdb
+c:\Users\mason\Desktop\Final\obj\Debug\net8.0\Final.genruntimeconfig.cache
+c:\Users\mason\Desktop\Final\obj\Debug\net8.0\ref\Final.dll
